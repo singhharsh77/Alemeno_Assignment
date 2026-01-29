@@ -1,0 +1,9 @@
+Django>=4.0,<5.0
+djangorestframework
+celery
+redis
+psycopg2-binary
+pandas
+openpyxl
+gunicorn
+requests
